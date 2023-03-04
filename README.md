@@ -1,2 +1,2 @@
-# ConcProg
-Concurrent Programming
+# ProgConc
+Programação Concorrente
